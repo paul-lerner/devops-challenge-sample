@@ -32,4 +32,4 @@
 
 Remember that the exact commands and steps might vary depending on the platform you choose. Always refer to their documentation for specific instructions.
 
-Great job on completing Day 1! This exercise has laid the foundation for efficient version control, a crucial aspect of the DevOps workflow. Tomorrow, we will dive deeper into Continuous Integration (CI) and learn how to automate builds and tests. Stay tuned!
+Great job on completing Day 2! This exercise has laid the foundation for efficient version control, a crucial aspect of the DevOps workflow. Tomorrow, we will dive deeper into Continuous Integration (CI) and learn how to automate builds and tests. Stay tuned!
